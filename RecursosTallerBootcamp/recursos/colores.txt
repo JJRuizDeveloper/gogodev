@@ -1,0 +1,3 @@
+principal: #4f4aa6
+secundario: #48ca95
+gris: #f7f7f7
